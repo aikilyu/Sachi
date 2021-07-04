@@ -5,7 +5,7 @@
   "author": "Miki Yoshikawa",
   "cover": "https://cover.nep.li/cover/Kakkou-no-Iinazuke.jpg",
   "chapters": {
-    "001": {
+      "001": {
       "title": "1st Fowl: Be My Boyfriend!",
       "volume": "Volume 1",
       "groups": {
@@ -13,11 +13,19 @@
       },
       "last_updated": "1625367953"
     },
-    "002": {
+      "002": {
       "title": "2nd Fowl: I Don't Intend on Getting Married",
       "volume": "Volume 1",
       "groups": {
         "Unknown": "/proxy/api/imgur/chapter/E4COwpf/"
+      },
+      "last_updated": "1625404430"
+    },
+      "003": {
+      "title": "3rd Fowl : We Won't so Much as Look at Each Other",
+      "volume": "Volume 1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/ROU411Y/"
       },
       "last_updated": "1625404430"
     }
