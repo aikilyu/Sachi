@@ -25,7 +25,31 @@
       "title": "3rd Fowl : We Won't so Much as Look at Each Other",
       "volume": "Volume 1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/ROU411Y/"
+        "Unknown": "/proxy/api/imgur/chapter/ROU411Y/"
+      },
+      "last_updated": "1625404430"
+    },
+      "004": {
+      "title": "4th Fowl : I’ll Never Lose to You!!!",
+      "volume": "Volume 1",
+      "groups": {
+        "Unknown": "/proxy/api/imgur/chapter/j6qUrIx/"
+      },
+      "last_updated": "1625404430"
+    },
+      "005": {
+      "title": "5th Fowl : Are You Some Kind of Idiot!?",
+      "volume": "Volume 1",
+      "groups": {
+        "Unknown": "/proxy/api/imgur/chapter/k5UzBVt/"
+      },
+      "last_updated": "1625404430"
+    },
+      "006": {
+      "title": "6th Fowl : Will You Go out With Me...?",
+      "volume": "Volume 1",
+      "groups": {
+        "Unknown": "/proxy/api/imgur/chapter/C13s9uj/"
       },
       "last_updated": "1625404430"
     }
