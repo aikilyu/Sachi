@@ -52,6 +52,38 @@
         "Unknown": "/proxy/api/imgur/chapter/C13s9uj/"
       },
       "last_updated": "1625404430"
+    },
+      "007": {
+      "title": "Thank You for Everything!",
+      "volume": "Volume 2",
+      "groups": {
+        "Unknown": "/proxy/api/imgur/chapter/Dy00ui8/"
+      },
+      "last_updated": "1625410108"
+    },
+      "008": {
+      "title": "You Two Seriously Look Alike",
+      "volume": "Volume 2",
+      "groups": {
+        "Unknown": "/proxy/api/imgur/chapter/WU8NuFP/"
+      },
+      "last_updated": "1625410108"
+    },
+      "009": {
+      "title": "Can We Spend Our Mornings Together...?",
+      "volume": "Volume 2",
+      "groups": {
+        "Unknown": "/proxy/api/imgur/chapter/gveAbHQ/"
+      },
+      "last_updated": "1625410108"
+    },
+      "010": {
+      "title": "You’re Not Too Bad Yourself",
+      "volume": "Volume 2",
+      "groups": {
+        "Unknown": "/proxy/api/imgur/chapter/Kr89o9E/"
+      },
+      "last_updated": "1625410108"
     }
   }
 }
