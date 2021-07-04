@@ -1,15 +1,15 @@
 {
-  "title": "<A Couple of Cuckoos>",
-  "description": "<manga description>",
-  "artist": "<Miki Yoshikawa>",
-  "author": "<Miki Yoshikawa>",
+  "title": "A Couple of Cuckoos",
+  "description": "manga description",
+  "artist": "Miki Yoshikawa",
+  "author": "Miki Yoshikawa",
   "cover": "https://official-ongoing-1.ivalice.us/manga/Kakkou-no-Iinazuke/0001-001.png",
   "chapters": {
-    "<001>": {
-      "title": "<1st Fowl: Be My Boyfriend!>",
-      "volume": "<Volume 1>",
+    "001": {
+      "title": "1st Fowl: Be My Boyfriend!",
+      "volume": "Volume 1",
       "groups": {
-        "<Unknown>": "/proxy/api/imgur/chapter/0M6Zruq/"
+        "Unknown": "/proxy/api/imgur/chapter/0M6Zruq/"
       },
       "last_updated": "1625367953"
     }
